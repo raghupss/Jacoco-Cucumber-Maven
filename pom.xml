@@ -207,8 +207,8 @@
                                     <cargo.logging>medium</cargo.logging>
                                     <cargo.jvmargs>${failsafeJacocoAgent}</cargo.jvmargs>
                                 </properties>
-                            </configuration>
-                        </configuration>-->
+                            </configuration>-->
+                        </configuration>
                     </plugin>
                     <!-- Running IT tests (Gherkin style) -->
                     <plugin>
